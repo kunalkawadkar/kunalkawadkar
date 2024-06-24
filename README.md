@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunalkawadkar
 - 🌱 I’m currently learning DS,ML,AI 
-- 💞️ I’m looking to collaborate on Tech guys
+- 💞️ I’m looking to collaborate with Tech guys
 - 📫 How to reach me kunalkawadkar100@gmail.com
 
 <!---
